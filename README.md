@@ -22,3 +22,7 @@ In this project, we analyzed the weather trends in Oahu, Hawaii so an investor c
 We can conclude that both June and December have similar min/max and average temperatures and the investor can expect low precipitations. The temperature data is not strongly skewed for either month and there are few outliers. The data supports that Oahu is a great place to invest in a surf-and-ice cream shop and will have a pleasant weather almost all year long. 
 
 <img src="https://github.com/annarochav/surfs_up/blob/main/Resources/frequency.png" width="400" height="" />
+
+For extra queries, precipitacions for June and December were added to compare them, we can notice that December has more rainfalls (mean 0.14 vs 0.22), with this data, the investor can prepare in advance some strategies to boost sales.
+
+<img src="https://github.com/annarochav/surfs_up/blob/main/Resources/side_by_side_2.png" width="325" height="" />
